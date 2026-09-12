@@ -1,0 +1,42 @@
+Repository:
+aivorair-arch/pricefinderai-
+
+You are working inside the existing repository.
+
+IMPORTANT RULES:
+- Do not create a new project.
+- Do not delete existing files.
+- Do not replace the project with a demo.
+- Do not push directly to main.
+- First inspect the complete repository.
+- Create a new branch named codex/audit-pricefinderai.
+- Do not modify application code yet.
+
+Tasks:
+1. Inspect the complete repository tree.
+2. Identify the real technology stack.
+3. Inspect README.md, index.html, infrastructure, Docker files, frontend, backend, crawler and ai directories if present.
+4. Detect missing or incorrectly named directories.
+5. Check package files, composer files, Python requirements and Docker configuration.
+6. Check whether the project currently builds.
+7. Run only safe read-only inspection and build commands.
+8. Create a detailed audit report at:
+   docs/PROJECT-AUDIT.md
+9. Summarize:
+   - current architecture
+   - existing features
+   - missing features
+   - build errors
+   - deployment problems
+   - recommended first implementation step
+
+Do not rewrite the project.
+Do not remove existing functionality.
+At the end, show the proposed diff and wait for approval before committing.فروشگاه ارکوپال آرکوپال:
+@eli_admin
+
+پیام بده این#لوازم_خانگی  #آرکوپال #ارکوپال #چینی
+
+@lavazemkhanegi_ii     👈 سفارش
+.
+http://rubika.ir/arkopal_arcopal
